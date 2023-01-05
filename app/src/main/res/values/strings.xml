@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginFacebook</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="facebook_app_id">xxxxxxxx</string>
+    <string name="fb_login_protocol_scheme">fbxxxxxxx</string>
+    <string name="facebook_client_token">xxxxxxxxxxxxxxxxxxxxxxxxxxx</string>
+</resources>
